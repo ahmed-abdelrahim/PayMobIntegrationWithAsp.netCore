@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\DELL\source\repos\PayMobIntegration\Publish</_PublishTargetUrl>
+    <History>True|2022-06-06T01:01:58.7912849Z;True|2022-06-06T02:46:18.7160502+02:00;True|2022-06-06T02:38:22.0546403+02:00;</History>
+  </PropertyGroup>
+</Project>
